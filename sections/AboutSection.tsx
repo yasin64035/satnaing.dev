@@ -195,18 +195,18 @@ const AboutSection: React.FC = () => {
 const educationInfo = [
   {
     id: 1,
-    title: "B.Sc (Hons) in Computing",
-    subTitle: "Edinburgh Napier University | 2018 ~ 2019",
+    title: "SSC batch 2023 Commarce",
+    subTitle: "New Ideal School | 2019 ~ 2023",
     list: [
       "Studied computer science, software development, DevOps",
-      "Graduated with First Class Honours",
-      "Got merit in 7 modules out of 9",
+      // "Graduated with First Class Honours",
+      // "Got merit in 7 modules out of 9",
     ],
   },
   {
     id: 2,
     title: "HND in Computing & System Development",
-    subTitle: "Info Myanmar University | 2016 - 2018",
+    subTitle: "Info Bangladesh University | 2016 - 2018",
     list: [
       "Studied modules specializing in software development",
       "Passed HND with overall Merit",

@@ -6,7 +6,7 @@ import { ScrollTrigger } from "gsap/dist/ScrollTrigger";
 import LinkButton from "../components/LinkButton";
 
 import satNaing from "../public/satnaing-illustration.webp";
-import laptop from "../public/laptop-illustration.webp";
+// import laptop from "../public/laptop-illustration.webp";
 
 const HeroSection: React.FC = () => {
   const sectionRef = useRef(null);
@@ -107,13 +107,13 @@ const HeroSection: React.FC = () => {
             />
           </div>
           <div className="laptop absolute top-14 sm:top-16 left-0 scale-[.41] xs:scale-[.45] pointer-events-none">
-            <Image
+            {/* <Image
               src={laptop}
               width={559}
               height={386}
               aria-hidden="true"
               alt="Laptop illustration"
-            />
+            /> */}
           </div>
         </div>
       </div>
