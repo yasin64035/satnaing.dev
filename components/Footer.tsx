@@ -36,7 +36,7 @@ const Footer: React.FC<Props> = ({ noPadding = false }) => {
             d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"
           />
         </svg>{" "}
-        by Ariful Islam
+        by Sat Naing
       </div>
     </footer>
   );
@@ -45,8 +45,8 @@ const Footer: React.FC<Props> = ({ noPadding = false }) => {
 const socialLinks = [
   {
     id: 1,
-    title: "Ariful's Github Profile",
-    link: "https://github.com/yasin64035",
+    title: "Sat Naing's Github Profile",
+    link: "https://github.com/satnaing",
     svg: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -64,8 +64,8 @@ const socialLinks = [
   },
   {
     id: 2,
-    title: "Ariful's LinkedIn Profile",
-    link: "https://www.linkedin.com/in/ariful-islam-849328228/",
+    title: "Sat Naing's LinkedIn Profile",
+    link: "https://www.linkedin.com/in/satnaing/",
     svg: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -80,8 +80,8 @@ const socialLinks = [
   },
   {
     id: 3,
-    title: "Check Ariful on Dev.to",
-    // link: "https://dev.to/satnaing",
+    title: "Check Sat Naing on Dev.to",
+    link: "https://dev.to/satnaing",
     svg: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -95,8 +95,8 @@ const socialLinks = [
   },
   {
     id: 4,
-    title: "Ariful's Profile on Facebook",
-    link: "https://www.facebook.com/mdariful6403",
+    title: "Sat Naing's Profile on Facebook",
+    link: "https://www.facebook.com/satnaing.dev",
     svg: (
       <svg
         xmlns="http://www.w3.org/2000/svg"

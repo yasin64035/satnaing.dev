@@ -124,7 +124,7 @@ const HeroSection: React.FC = () => {
         </span>
         <div className="overflow-hidden">
           <h1 className="text-animation text-4xl md:text-5xl lg:text-7xl md:my-2 font-semibold my-1">
-            Sat Naing
+            Ariful
           </h1>
         </div>
         <div className="overflow-hidden">
@@ -133,7 +133,7 @@ const HeroSection: React.FC = () => {
           </span>
         </div>
         <div className="mt-2 my-4 md:mb-8">
-          <p>I'm a full-stack developer based in Yangon, Myanmar.</p>
+          <p>I'm a full-stack developer based in Dhaka, Bangladesh.</p>
           <p>
             I am passionate about writing codes and developing web applications
             to solve <span className="whitespace-nowrap">real-life</span>{" "}
